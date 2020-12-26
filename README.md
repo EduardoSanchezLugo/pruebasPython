@@ -1,6 +1,6 @@
 # Creación de un robot con selenium y python![Status badge](https://img.shields.io/badge/status%20-finished-green)
 
-* Con estás proyecto se aprenden los conceptos de selenium, ya que se utiliza el ide nativo de python, todos estos ejemplos que tiene cad auna de las clase son de juguete.
+* Con estás proyecto se aprenden los conceptos de selenium, ya que se utiliza el ide nativo de python, todos estos ejemplos que tiene cada una de las clase son de juguete.
 
 
 ## 🚀 Comenzando :
